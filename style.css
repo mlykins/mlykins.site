@@ -1,0 +1,18 @@
+.header{
+	background-color: #cccccc;
+	padding: 20px;
+	text-align: center;
+}
+
+.thumbnail_right{
+	clear: right;
+	float: right;	
+}
+
+.section_heading{
+	border-bottom: 1px solid #cccccc;
+}
+
+.image{
+	max-width: 360px;
+}
